@@ -1,0 +1,21 @@
+.ticketGridContainer {
+    display: flex;
+    justify-content: center;
+  }
+  
+
+.ticketGrid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    text-align: center;
+}
+
+.ticketCard {
+    border: 2px solid white;
+    padding: 5px;
+    width: 280px;
+    color: white;
+    font-size: 25px;
+}
+  

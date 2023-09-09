@@ -1,0 +1,232 @@
+/* PAGE BODY */
+body {
+  background-color: #3c3e3f;
+  font-family: Arial, sans-serif;
+}
+
+.page-wrapper {
+  min-height: 98vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+/* NAVBAR */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navbar-content {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 450px;
+  height: auto;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 35px;
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-links li {
+  cursor: pointer;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  margin-left: 45px;
+}
+
+.nav-links a:hover {
+  color: #e459ff;
+}
+
+/* CONNECT WALLET BUTTON */
+.connect-wallet button {
+  background-color: green;
+  margin-left: 80px;
+  font-size: 30px;
+  border: grey;
+  color: white;
+  cursor: pointer;
+}
+
+
+
+/* HOMEPAGE */
+.centered-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+}
+
+.homepage-logo {
+  width: 60%;
+  height: auto;
+}
+
+.homepage-description {
+  font-size: 2rem;
+  margin-top: 40px;
+  color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+
+
+/* FOOTER */
+.footer {
+  background-color: #3c3e3f;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 22px;
+  bottom: 0;
+  margin-top: auto;
+  width: 100%;
+}
+
+.footer p {
+  margin: 0;
+  color: #e459ff;
+}
+
+.footer strong {
+  font-weight: bold;
+}
+
+
+
+/* DASHBOARD PAGE */
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  color: white;
+}
+
+.dashboard-section {
+  margin-bottom: 20px;
+}
+
+.dashboard-section h3 {
+  font-size: 33px;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.dashboard-section a {
+  color: #29a0c9;
+}
+
+.dashboard-section p {
+  font-size: 30px;
+  margin: 0;
+  margin-bottom: 8px;
+  display: flex;
+}
+
+.logo-icon {
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.etherscan-link {
+  margin-left: 10px;
+}
+
+
+
+/* TICKET CENTER */
+.ticket-center-top-section {
+  display: flex;
+  justify-content: center;
+  height: 33vh;
+  align-items: flex-start;
+}
+
+.ticket-center-form {
+  color: white;
+  font-size: 33px;
+  padding: 50px;
+  border: 2px solid white;
+  margin: 30px;
+  text-align: center;
+}
+
+.ticket-center-form input[type="text"],
+.ticket-center-form button {
+  font-size: 22px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ticket-center-bottom-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ticket-center-search {
+  color: white;
+  font-size: 33px;
+  padding: 50px;
+  border: 2px solid white;
+  margin: 30px;
+  text-align: center;
+}
+
+.ticket-center-search input[type="text"],
+.ticket-center-search button {
+  font-size: 22px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.error-message {
+  color: red;
+  font-size: 35px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.success-message {
+  color: #2BF618;
+  font-size: 35px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+
+/* WALLET NOT CONNECTED PAGE*/
+.wallet-connected {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
