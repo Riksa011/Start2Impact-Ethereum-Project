@@ -1,7 +1,7 @@
 # Start2Impact Ethereum Project
 
 <p align="center">
-    <img src="images/logo.png" alt="NFTicket logo">
+    <img src="images/logo1.png" alt="NFTicket logo">
 </p>
 
 This is my Ethereum project for [Start2Impact](https://talent.start2impact.it/profile/riccardo-santi).
