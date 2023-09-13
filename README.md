@@ -19,6 +19,8 @@ __Solidity__ is a programming language for creating smart contracts on the Ether
 <br>
 __ERC721 Standard__ is a widely used blockchain standard for creating unique and indivisible digital assets to represent non-fungible items like collectibles and digital art.
 
+Try NFTicket on desktop [here](https://start2impact-ethereum-project.vercel.app/)
+
 <hr/>
 
 
