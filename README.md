@@ -133,5 +133,7 @@ Javascript, [NodeJS](https://nodejs.org/it), [ReactJS](https://react.dev/), [Nex
 
 <a name="aboutme"></a>
 ## 👨‍💻 About me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-santi/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-santi/) &nbsp;&nbsp;
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://riccardo-santi.vercel.app/)
+
 
